@@ -210,7 +210,7 @@ const Header = () => {
                 }}
                 bg="gray.700"
                 _hover={{ bg: 'gray.600' }}
-                w='50%'
+                width='50%'
               >
                 Book Now
               </Button>
